@@ -18,3 +18,7 @@ git push -u origin master
 git remote add origin https://github.com/DecJude/GetStarted.git
 git push -u origin master
 ```
+
+### Contribute to other projects
+
+[https://help.github.com/articles/fork-a-repo/](https://help.github.com/articles/fork-a-repo/)
